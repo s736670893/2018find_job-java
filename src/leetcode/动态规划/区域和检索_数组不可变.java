@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.动态规划;
 
 public class 区域和检索_数组不可变 {
 

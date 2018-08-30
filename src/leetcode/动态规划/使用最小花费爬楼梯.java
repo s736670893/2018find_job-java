@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.动态规划;
 
 public class 使用最小花费爬楼梯 {
 
