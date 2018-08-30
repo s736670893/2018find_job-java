@@ -35,12 +35,12 @@ public class ²»Í¬Â·¾¶_II {
         		}
         	}
         }
-        for(int[] i:dp) {
-        	for(int j:i) {
-        		System.out.print(j+" ");
-        	}
-        	System.out.println();
-        }
+//        for(int[] i:dp) {
+//        	for(int j:i) {
+//        		System.out.print(j+" ");
+//        	}
+//        	System.out.println();
+//        }
         return dp[m-1][n-1];
     }
 	
